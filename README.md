@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a game in godot
 - 🌱 I’m currently learning gdscript and ren'py
 - 💬 Ask me about: the colour of the sky
